@@ -12,7 +12,7 @@ qrText.addEventListener("input", handleQRText);
 sizes.addEventListener("change", handleSize);
 shareBtn.addEventListener("click", handleShare);
 
-const defaultUrl = "https://youtube.com/@AsmrProg";
+const defaultUrl = "Made By Coder Ibrahim Aziz";
 let colorLight = "#fff",
 colorDark = "#000",
 text = defaultUrl,
